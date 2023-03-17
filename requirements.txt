@@ -1,5 +1,3 @@
-streamlit==1.18.1
-
-
-import json
-import pandas as pd
+streamlit
+json
+pandas
